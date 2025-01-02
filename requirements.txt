@@ -1,0 +1,12 @@
+sqlalchemy
+psycopg2
+pandas
+matplotlib
+seaborn
+ipython
+nbconvert
+pipreqs
+numpy
+prettytable
+sqlparse
+
